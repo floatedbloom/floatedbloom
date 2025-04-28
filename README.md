@@ -17,8 +17,6 @@
   </a>
 </div>
 
-[![GitGud Score](https://img.shields.io/badge/GitGud_Score-85.2-success)](http://127.0.0.1:5000/user-report/CharlesLiuCool)
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
