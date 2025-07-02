@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a HS senior from Seattle<br><br>- 🔭 I’m working on a math app for calculus students, websites for my school clubs, and some data science and cybersecurity<br>- 📚 I'm currently learning ML, React, and Go<br>- ⚡ In my free time I work on projects, play chess, and play piano</p>
+<p align="left">I'm a HS senior from Seattle<br><br>- 🔭 I’m working on an educational startup and some data science research<br>- 📚 I'm currently learning ML and Next<br>- ⚡ In my free time I work on projects, play chess, and play piano</p>
 
 ###
 
