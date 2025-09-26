@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm george 👋</h1>
+<h1 align="center">hey, i'm zhora 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a HS senior from Seattle<br><br>- 🔭 I’m working on an educational startup and some data science research<br>- 📚 I'm currently learning ML and Next<br>- ⚡ In my free time I work on projects, play chess, and play piano</p>
+<p align="left">I'm a college freshman from Seattle<br><br>- 🔭 I’m working on an educational startup and some data science research<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I work on projects, play chess, and play piano</p>
 
 ###
 
