@@ -19,15 +19,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">about me</h3>
 
 ###
 
-<p align="left">I'm a college freshman from Seattle<br><br>- 🔭 I’m working on startups and research<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I work on projects, play chess, and play piano</p>
+<p align="left">i'm a college freshman from seattle<br>- currently learning as much as i can as fast as i can<br>- other interests: chess, tennis, cooking</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">what i know</h3>
 
 ###
 
@@ -56,15 +56,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-
+<!-------
 ###
-
 <h3 align="left">🔥   My Stats :</h3>
-
 ###
-
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=floatedbloom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
-
 ###
+------->
