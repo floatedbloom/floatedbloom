@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">i'm a college freshman from seattle<br>- currently learning as much as i can as fast as i can<br>- other interests: chess, tennis, cooking</p>
+<p align="left">i'm a college at uw<br>- currently learning as much as i can as fast as i can<br>- other interests: chess, tennis, cooking</p>
 
 ###
 
