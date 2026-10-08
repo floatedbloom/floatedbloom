@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">i'm a college at uw<br>- currently learning as much as i can as fast as i can<br>- other interests: chess, tennis, cooking</p>
+<p align="left">i'm a college student at uw<br>- currently learning as much as i can as fast as i can<br>- other interests: chess, tennis, cooking</p>
 
 ###
 
